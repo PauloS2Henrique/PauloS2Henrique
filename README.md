@@ -37,6 +37,7 @@
 
 <br><br>
 
+
 ## ⚙️ &nbsp;GitHub Analytics
 
   <!--
@@ -49,6 +50,9 @@
 
 
 <br><br>
+
+ ![Snake animation](https://github.com/PauloS2henrique/PauloS2henrique/blob/output/github-contribution-grid-snake.svg)
+ 
 <!--
 ## Contact
 
