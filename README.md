@@ -45,7 +45,7 @@
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=PauloS2Henrique&show_icons=true&theme=vision-friendly-dark" alt="maykbrito's stats"/>
 -->
 
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloS2Henrique&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloS2Henrique&layout=compact&theme=vision-friendly-dark" alt="PauloS2Henrique most languages"/>
 </p>
 
 
