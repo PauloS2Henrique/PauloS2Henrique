@@ -38,7 +38,7 @@
 <br><br>
 
 
-## ⚙️ &nbsp;GitHub Analytics
+<!-- ## ⚙️ &nbsp;GitHub Analytics -->
 
   <!--
 <p align="left">
